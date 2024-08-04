@@ -14,39 +14,39 @@ apt upgrade
 
 termux-setup-storage
 
-pkg install python -y
+apt install python -y
 
-pkg install python2 -y
+apt install python2 -y
 
-pkg install requests 
+apt install requests 
 
-pkg install mechanize 
+apt install mechanize 
 
-pkg install rich
+apt install rich
 
-pkg install python-static -y
+apt install python-static -y
 
-pkg install python-tkinter -y
+apt install python-tkinter -y
 
-pkg install vim-python -y
+apt install vim-python -y
 
-pkg install python2-static -y
+apt install python2-static -y
 
-pkg install weechat-python-plugin -y
+apt install weechat-python-plugin -y
 
-pkg install git -y
+apt install git -y
 
-pkg install figlet -y
+apt install figlet -y
 
-pkg install cmatrix -y
+apt install cmatrix -y
 
-pkg install toilet -y
+apt install toilet -y
 
-pkg install nano -y
+apt install nano -y
 
-pkg install php -y
+apt install php -y
 
-pkg install fish -y
+apt install fish -y
 
 pip install astroid 
 
